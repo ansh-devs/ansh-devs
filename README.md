@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ansh_garhewal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ansh_garhewal" height="30" width="40" /></a>
+<a href="https://twitter.com/ansh_devs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ansh_garhewal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ansh-garhewal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ansh-garhewal" height="30" width="40" /></a>
 <a href="https://instagram.com/ansh_devs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ansh_devs" height="30" width="40" /></a>
 </p>
