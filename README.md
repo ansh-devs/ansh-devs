@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh-devs" alt="ansh-devs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ansh_devs" target="blank"><img src="https://img.shields.io/twitter/follow/ansh_devs?logo=twitter&style=for-the-badge" alt="ansh_devs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ansh_devs" target="blank"><img src="https://img.shields.io/twitter/follow/ansh_devs?logo=twitter&style=for-the-badge" alt="ansh_devs" /></a>0 </p>
 
 - 🔭 I’m currently working on **Ecommerce App**
 
