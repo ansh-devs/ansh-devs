@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ansh Kumar Garhewal</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Flutter & Golang developer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-devs&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-devs" /> </p>
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ansh-devs" alt="ansh-devs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ansh_devs" target="blank"><img src="https://img.shields.io/twitter/follow/ansh_devs?logo=twitter&style=for-the-badge" alt="ansh_devs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ansh_devs" target="blank"><img src="https://img.shields.io/twitter/follow/anshdevs?logo=twitter&style=for-the-badge" alt="ansh_devs" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce App**
+- 🔭 I’m currently working on **Microservices**
 
-- 🌱 I’m currently learning **JAVA // KOTLIN**
+- 🌱 I’m currently learning **GoLang // Microservices Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ansh-devs](https://github.com/ansh-devs)
 
