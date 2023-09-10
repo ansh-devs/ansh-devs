@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Garhewal</h1>
-<h3 align="center">A passionate Golang developer based in India</h3>
+<h3 align="center">A passionate Software developer based in India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Microservices<br><br>🌱 I’m currently learning GoLang // Microservices Architecture<br><br>👨‍💻 All of my projects are available at https://anshdevs.in<br><br>📫 How to reach me = me@anshdevs.in
+🔭 I’m currently working on EventDriven Semantics<br><br>🌱 I’m currently learning Distributed Systems // Docker & Kubernetes<br><br>👨‍💻 All of my projects are available at https://anshdevs.in<br><br>📫 How to reach me = me@anshdevs.in
 
 
 ## 🌐 Socials:
