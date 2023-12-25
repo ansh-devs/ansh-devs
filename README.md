@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer based in India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on EventDriven Semantics<br><br>🌱 I’m currently learning Distributed Systems // Docker & Kubernetes<br><br>👨‍💻 All of my projects are available at https://anshdevs.in<br><br>📫 How to reach me = me@anshdevs.in
+🔭 I’m currently working on EventDriven Semantics<br><br>🌱 I’m currently learning Distributed Systems // Docker & Kubernetes<br><br>👨‍💻 All of my projects are available at https://portfolio.anshdevs.in<br><br>📫 How to reach me = me@anshdevs.in
 
 
 ## 🌐 Socials:
@@ -21,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ansh-devs&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
