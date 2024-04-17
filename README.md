@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ansh Kumar Garhewal</h1>
 <h3 align="center">A passionate Software developer based in India</h3>
 
-* 🌱 I’m currently learning SDLC <br><br>
-* 👨‍💻 All of my projects are available at https://portfolio.anshdevs.in<br><br>
+* 🌱 I’m currently learning SDLC/ ADLC <br><br>
+* 👨‍💻 All of my projects are available [Here](https://www.portfolio.anshdevs.in)<br><br>
 * 📫 How to reach me = me@anshdevs.in
 
 ## 💻 Tech Stack:
