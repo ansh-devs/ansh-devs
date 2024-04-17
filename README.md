@@ -2,7 +2,7 @@
 <h3 align="center">A  binary bard, penning prose in the language of machines.</h3>
 
 * 🌱 I'm a knowledge sponge, currently soaking - SDLC/ ADLC <br><br>
-* 📓 Allow me to introduce you to my cache château
+* 📓 Allow me to introduce you to my cache château <br><br>
 * 🌏 Saunter on by my digital domicile - [Here](https://www.portfolio.anshdevs.in)<br><br>
 * 📫 Reach out to me - [Here](mailto:me@anshdevs.in)
 
