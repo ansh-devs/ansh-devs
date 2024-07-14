@@ -1,7 +1,7 @@
 **<h1 align="center">Hi 👋, I'm Ansh Kumar Garhewal</h1>**
 **<h3 align="center">A  binary bard, penning prose in the language of machines.</h3>**
 
-* 🌱 Osmosis in progress: Rustaceans edition <br>
+* 🌱 Osmosis in progress: Rustacean edition <br>
 * 🌏 Saunter on by my digital domicile - [Here](https://www.portfolio.anshdevs.in)<br>
 * 📫 Reach out to me - [Here](mailto:me@anshdevs.in)
 
