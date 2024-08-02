@@ -1,4 +1,3 @@
-**<h1 align="center">Hi 👋, I'm Ansh Garhewal</h1>**
 **<h3 align="center">A  binary bard, penning prose in the language of machines.</h3>**
 
 * 🌱 Osmosis in progress: Rustacean edition <br>
