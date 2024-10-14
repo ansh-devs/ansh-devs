@@ -11,7 +11,7 @@
         <samp>
                   I'm a Software Developer from <b>India</b>
                 <br>
-                  Focused on developing web applications that improve lives</b> 」
+                  Focused on developing softwares that improve lives</b> 」
                 <br>
             Osmosis in progress: Rustacean edition🦀 <br>
             <a href="https://www.anshdevs.in"><b>Website</b></a> <br>
