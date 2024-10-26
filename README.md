@@ -13,8 +13,8 @@
                 <br>
 <!--                   Focused on developing softwares that improve lives -->
 <!--                        Bugs are found. Solutions are crafted & Coffee is consumed. -->
-                </b>
-                <br>
+<!--                 </b> -->
+<!--                 <br> -->
                       Open to C2C, C2H <b>Remote based</b> roles.
                 <br>
 <!--             <a href="https://www.anshdevs.in"><b>Website</b></a> <br> -->
