@@ -12,7 +12,7 @@
                   I'm a Software Developer from <b>India</b>
                 <br>
 <!--                   Focused on developing softwares that improve lives -->
-                       Bugs are found. Solutions are crafted & Coffee is consumed.
+<!--                        Bugs are found. Solutions are crafted & Coffee is consumed. -->
                 </b>
                 <br>
                       Open to C2C, C2H <b>Remote based</b> roles.
