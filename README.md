@@ -1,23 +1,11 @@
 
-<div class="center">
-         <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&pause=1000&color=7522F7&width=800&lines=Software+Craftsman+%7C+DevOps+Practioner+%7C+Researcher" alt="Typing SVG" />
-</div>
-
 <h5 align="left">
-        <!-- Intro -->
-<!--         <samp> -->
-<!--                   I'm a Software Developer from <b>India</b>
-                <br> -->
-<!--                   Focused on developing softwares that improve lives -->
-<!--                        Bugs are found. Solutions are crafted & Coffee is consumed. -->
-<!--                 </b> -->
-<!--                 <br> -->
-                      Open to C2C, C2H <b>Remote based</b> roles.
-                <br/>
-                <br/>
-<!--             <a href="https://www.anshdevs.in"><b>Website</b></a> <br> -->
-            <a href="mailto:me@anshdevs.in"><b>Mailbox</b></a> <br>
-<!--         </samp> -->
+         <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&pause=1000&color=7522F7&width=800&lines=Software+Craftsman+%7C+DevOps+Practioner+%7C+Researcher" alt="Typing SVG" />
+         <br/>
+         Open to C2C, C2H <strong>Remote based</strong> roles.
+         <br/>
+         <br/>
+         <a href="mailto:me@anshdevs.in"><b>Mailbox</b></a> <br/>
 </h5>
 
 
